@@ -1,4 +1,5 @@
 <?php
+$config['Misc']['debug'] = false;  
 $arrayappend=array();
 $arrayappend[]=0;
 $arrayappend[]=15;
